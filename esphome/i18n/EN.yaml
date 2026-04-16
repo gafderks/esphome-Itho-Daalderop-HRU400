@@ -115,6 +115,7 @@ substitutions:
   # bypass.yaml
   b_2032: Position stepper bypass valve
   b_2033: Position stepper bypass valve - on⁄off
+  b_2034: Bypass valve - on⁄off
   # frostvalve.yaml
   fv_2030: Position stepper frost flap steps
   fv_2031: Position stepper frost flap steps - on⁄off
