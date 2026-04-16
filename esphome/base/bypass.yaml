@@ -32,7 +32,7 @@ switch:
     icon: mdi:toggle-switch-variant
     
   - platform: template
-    name: "Bypass valve - on/off" # 0 = auto 1 = Manual
+    name: ${b_2034} # 0 = auto 1 = Manual
     id: bypass_valve_on_off_switch
     icon: mdi:toggle-switch-variant
     restore_mode: RESTORE_DEFAULT_OFF
