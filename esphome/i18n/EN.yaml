@@ -2,39 +2,39 @@ substitutions:
   # sensors_general.yaml:
   s_499: Restart WTW unit.
   s_2000: Real ventilation level (synchronised with BRDG)
-  s_2001: Real ventilation level (BRDG) - on/off
+  s_2001: Real ventilation level (BRDG) - on⁄off
   s_2020: Mass flow, intake fan (no mass balance)
-  s_2021: Mass flow, intake fan (no mass balance) - on/off
+  s_2021: Mass flow, intake fan (no mass balance) - on⁄off
   s_2022: Mass flow, exhaust fan (no mass balance)
-  s_2023: Mass flow, exhaust fan (no mass balance) - on/off
+  s_2023: Mass flow, exhaust fan (no mass balance) - on⁄off
   s_2034: Position stepper zone flap 1
-  s_2035: Position stepper zone flap 1 - on/off
+  s_2035: Position stepper zone flap 1 - on⁄off
   s_2036: Position stepper zone flap 2
-  s_2037: Position stepper zone flap 2 - on/off
+  s_2037: Position stepper zone flap 2 - on⁄off
   s_2038: Position stepper zone flap 3
-  s_2039: Position stepper zone flap 3 - on/off
+  s_2039: Position stepper zone flap 3 - on⁄off
   s_2040: Position stepper zone flap 4
-  s_2041: Position stepper zone flap 4 - on/off
+  s_2041: Position stepper zone flap 4 - on⁄off
   s_2200: Ventilation level zone 1
-  s_2201: Ventilation level zone 1 - on/off
+  s_2201: Ventilation level zone 1 - on⁄off
   s_2202: Ventilation level zone 2
-  s_2203: Ventilation level zone 2 - on/off
+  s_2203: Ventilation level zone 2 - on⁄off
   s_2204: Ventilation level zone 3
-  s_2205: Ventilation level zone 3 - on/off
+  s_2205: Ventilation level zone 3 - on⁄off
   s_2206: Ventilation level zone 4
-  s_2207: Ventilation level zone 4 - on/off
+  s_2207: Ventilation level zone 4 - on⁄off
   s_2208: Ventilation level zone 5
-  s_2209: Ventilation level zone 5 - on/off
+  s_2209: Ventilation level zone 5 - on⁄off
   s_2210: Flow demand zone 1
-  s_2211: Flow demand zone 1 - on/off
+  s_2211: Flow demand zone 1 - on⁄off
   s_2212: Flow demand zone 2
-  s_2213: Flow demand zone 2 - on/off
+  s_2213: Flow demand zone 2 - on⁄off
   s_2214: Flow demand zone 3
-  s_2215: Flow demand zone 3 - on/off
+  s_2215: Flow demand zone 3 - on⁄off
   s_2216: Flow demand zone 4
-  s_2217: Flow demand zone 4 - on/off
+  s_2217: Flow demand zone 4 - on⁄off
   s_2218: Flow demand zone 5
-  s_2219: Flow demand zone 5 - on/off
+  s_2219: Flow demand zone 5 - on⁄off
   s_3000: Highest percentage ingress in Automodus
   s_3001: Highest percentage exhaust in Automodus
   s_3010: Highest measured RV (extern & I²C) (not in fans)
@@ -57,16 +57,16 @@ substitutions:
   s_3051: Mass flow mixed
   s_3052: Temperature mixed
   s_3053: Relative humidity mixed (%)
-  s_3060: Volume flow to building (m3/h)
-  s_3061: Mass flow to building (kg/h)
+  s_3060: Volume flow to building (m3⁄h)
+  s_3061: Mass flow to building (kg⁄h)
   s_3062: Temperature to building
   s_3063: Relative air humidity to building (%)
-  s_3070: Volume flow from building (m3/h)
-  s_3071: Mass flow from building (kg/h)
+  s_3070: Volume flow from building (m3⁄h)
+  s_3071: Mass flow from building (kg⁄h)
   s_3072: Temperature from building
   s_3073: Relative humidity from building (%)
-  s_3080: Volume flow to outside (m3/h)
-  s_3081: Mass flow to outside (kg/h)
+  s_3080: Volume flow to outside (m3⁄h)
+  s_3081: Mass flow to outside (kg⁄h)
   s_3082: Temperature to outside
   s_3083: Relative air humidity to outside (%)
   s_3200: Unbalanced flow demand zone 1
@@ -79,8 +79,8 @@ substitutions:
   s_4002: Mixflow counter part 1 (m3)
   s_4003: Mixflow counter part 2 (m3)
   # select.yaml:
-  sl_2021: Flow ingress - auto/manual
-  sl_2011: Flow demand - auto/manual
+  sl_2021: Flow ingress - auto⁄manual
+  sl_2011: Flow demand - auto⁄manual
   sl_499: Restart WTW unit.
   # faultcodes.yaml:
   s_199: Error Code
@@ -107,17 +107,18 @@ substitutions:
   s_233: Error fan module ingress
   # fan.yaml
   f_2010: Ventilation demand ingress
-  f_2011: Ventilation demand ingress - on/off
+  f_2011: Ventilation demand ingress - on⁄off
   f_2012: Ventilation demand exhaust
-  f_2013: Ventilation demand exhaust - on/off
+  f_2013: Ventilation demand exhaust - on⁄off
   f_2020: Flow ingress speed
-  f_2021: Flow ingress - on/off
+  f_2021: Flow ingress - on⁄off
   # bypass.yaml
   b_2032: Position stepper bypass valve
-  b_2033: Position stepper bypass valve - on/off
+  b_2033: Position stepper bypass valve - on⁄off
+  b_2034: Bypass valve - on⁄off
   # frostvalve.yaml
   fv_2030: Position stepper frost flap steps
-  fv_2031: Position stepper frost flap steps - on/off
+  fv_2031: Position stepper frost flap steps - on⁄off
 
     # advanced.yaml
   a_10: Manufacturer group
