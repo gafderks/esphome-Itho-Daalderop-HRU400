@@ -1,39 +1,39 @@
 substitutions:
   # sensors_general.yaml:
   s_2000: Werkelijk ventilatieniveau (gesynchroniseerd met BRDG)
-  s_2001: Werkelijk ventilatieniveau (BRDG) - aan/uit
+  s_2001: Werkelijk ventilatieniveau (BRDG) - aan⁄uit
   s_2020: Volumestroom (flow) toevoerventilator (geen massabalans)
-  s_2021: Volumestroom (flow) toevoerventilator (geen massabalans) - aan/uit
+  s_2021: Volumestroom (flow) toevoerventilator (geen massabalans) - aan⁄uit
   s_2022: Volumestroom (flow) afvoerventilator (geen massabalans)
-  s_2023: Volumestroom (flow) afvoerventilator (geen massabalans) - aan/uit
+  s_2023: Volumestroom (flow) afvoerventilator (geen massabalans) - aan⁄uit
   s_2034: Positie stepper zoneklep 1
-  s_2035: Positie stepper zoneklep 1 - aan/uit
+  s_2035: Positie stepper zoneklep 1 - aan⁄uit
   s_2036: Positie stepper zoneklep 2
-  s_2037: Positie stepper zoneklep 2 - aan/uit
+  s_2037: Positie stepper zoneklep 2 - aan⁄uit
   s_2038: Positie stepper zoneklep 3
-  s_2039: Positie stepper zoneklep 3 - aan/uit
+  s_2039: Positie stepper zoneklep 3 - aan⁄uit
   s_2040: Positie stepper zoneklep 4
-  s_2041: Positie stepper zoneklep 4 - aan/uit
+  s_2041: Positie stepper zoneklep 4 - aan⁄uit
   s_2200: Ventilatieniveau zone 1
-  s_2201: Ventilatieniveau zone 1 - aan/uit
+  s_2201: Ventilatieniveau zone 1 - aan⁄uit
   s_2202: Ventilatieniveau zone 2
-  s_2203: Ventilatieniveau zone 2 - aan/uit
+  s_2203: Ventilatieniveau zone 2 - aan⁄uit
   s_2204: Ventilatieniveau zone 3
-  s_2205: Ventilatieniveau zone 3 - aan/uit
+  s_2205: Ventilatieniveau zone 3 - aan⁄uit
   s_2206: Ventilatieniveau zone 4
-  s_2207: Ventilatieniveau zone 4 - aan/uit
+  s_2207: Ventilatieniveau zone 4 - aan⁄uit
   s_2208: Ventilatieniveau zone 5
-  s_2209: Ventilatieniveau zone 5 - aan/uit
+  s_2209: Ventilatieniveau zone 5 - aan⁄uit
   s_2210: Stroomvraag (flow) zone 1
-  s_2211: Stroomvraag (flow) zone 1 - aan/uit
+  s_2211: Stroomvraag (flow) zone 1 - aan⁄uit
   s_2212: Stroomvraag (flow) zone 2
-  s_2213: Stroomvraag (flow) zone 2 - aan/uit
+  s_2213: Stroomvraag (flow) zone 2 - aan⁄uit
   s_2214: Stroomvraag (flow) zone 3
-  s_2215: Stroomvraag (flow) zone 3 - aan/uit
+  s_2215: Stroomvraag (flow) zone 3 - aan⁄uit
   s_2216: Stroomvraag (flow) zone 4
-  s_2217: Stroomvraag (flow) zone 4 - aan/uit
+  s_2217: Stroomvraag (flow) zone 4 - aan⁄uit
   s_2218: Stroomvraag (flow) zone 5
-  s_2219: Stroomvraag (flow) zone 5 - aan/uit
+  s_2219: Stroomvraag (flow) zone 5 - aan⁄uit
   s_3000: Hoogste percentage toevoer in Automodus
   s_3001: Hoogste percentage afvoer in Automodus
   s_3010: Hoogst gemeten RV (extern en I²C) (niet in ventilatoren)
@@ -56,16 +56,16 @@ substitutions:
   s_3051: Massastroom gemengd
   s_3052: Temperatuur gemengd
   s_3053: Relatieve vochtigheid gemengd (%)
-  s_3060: Volumestroom naar gebouw (m3/h)
-  s_3061: Massastroom naar gebouw (kg/h)
+  s_3060: Volumestroom naar gebouw (m3⁄h)
+  s_3061: Massastroom naar gebouw (kg⁄h)
   s_3062: Temperatuur naar gebouw
   s_3063: Relatieve vochtigheid naar gebouw (%)
-  s_3070: Volumestroom van gebouw (m3/h)
-  s_3071: Massastroom van gebouw (kg/h)
+  s_3070: Volumestroom van gebouw (m3⁄h)
+  s_3071: Massastroom van gebouw (kg⁄h)
   s_3072: Temperatuur van gebouw
   s_3073: Relatieve vochtigheid van gebouw (%)
-  s_3080: Volumestroom naar buiten (m3/h)
-  s_3081: Massastroom naar buiten (kg/h)
+  s_3080: Volumestroom naar buiten (m3⁄h)
+  s_3081: Massastroom naar buiten (kg⁄h)
   s_3082: Temperatuur naar buiten
   s_3083: Relatieve vochtigheid naar buiten 
   s_3200: Ongebalanceerde stroomvraag zone 1
@@ -78,8 +78,8 @@ substitutions:
   s_4002: Mengstroom teller deel 1 (m3)
   s_4003: Mengstroom teller deel 2 (m3)
   # select.yaml:
-  sl_2021: Volume toevoer - auto/manueel
-  sl_2011: Volume vraag - auto/manueel
+  sl_2021: Volume toevoer - auto⁄manueel
+  sl_2011: Volume vraag - auto⁄manueel
   sl_499: Herstart WTW unit.
   # faultcodes.yaml: 
   s_199: Foutnummer
@@ -106,17 +106,17 @@ substitutions:
   s_233: Fout ventilatormodule toevoer
   # fan.yaml
   f_2010: Ventilatievraag snelheid
-  f_2011: Ventilatievraag - aan/uit
+  f_2011: Ventilatievraag - aan⁄uit
   f_2012: Ventilatievraag afvoer
-  f_2013: Ventilatievraag afvoer - aan/uit
+  f_2013: Ventilatievraag afvoer - aan⁄uit
   f_2020: Volume toevoer snelheid
-  f_2021: Volume toevoer snelheid - aan/uit
+  f_2021: Volume toevoer snelheid - aan⁄uit
   # bypass.yaml
   b_2032: Positie stepper bypass klep
-  b_2033: Positie stepper bypass klep - aan/uit
+  b_2033: Positie stepper bypass klep - aan⁄uit
   # frostvalve.yaml
   fv_2030: Positie stepper vorstklep Stappen
-  fv_2031: Positie stepper vorstklep Stappen - aan/uit
+  fv_2031: Positie stepper vorstklep Stappen - aan⁄uit
 
   # advanced.yaml
   a_10: Fabrikantgroep
