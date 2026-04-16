@@ -114,6 +114,7 @@ substitutions:
   # bypass.yaml
   b_2032: Positie stepper bypass klep
   b_2033: Positie stepper bypass klep - aan⁄uit
+  b_2034: Bypass klep - aan⁄uit
   # frostvalve.yaml
   fv_2030: Positie stepper vorstklep Stappen
   fv_2031: Positie stepper vorstklep Stappen - aan⁄uit
