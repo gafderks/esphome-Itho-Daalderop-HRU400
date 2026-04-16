@@ -4,7 +4,7 @@
 # States:
 ## 0   = open, 550 = Closed
 # What is it:
-## Inside air is directed to the ourside without passing the heat exchanger
+## Inside air is directed to the outside without passing the heat exchanger
 ## Thus cold outside air does not heat up from the hot inside air
 
 number:
